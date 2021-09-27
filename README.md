@@ -11,7 +11,7 @@ T1_T2 Mapper is the software for generating T1 and T2 maps.
 
 ## Requirements
  - Python3
- - Numpy
+ - Numpy, Scipy
  - OpenCV, PIL, scikit-image
  - Pydicom, Nibabel
  - matplotlib
